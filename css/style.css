@@ -58,13 +58,13 @@ padding: 10px 20px;
 }
 .ba-buy-btn:before {
 content:"+";
-width: 15px;
-height: 10px;
+display: inline-block;
+width: 20px;
+height: 20px;
 margin-right: 5px;
 background-color: #fff;
 -webkit-border-radius: 50%;
         border-radius: 50%;
-        padding: 5px;
         color: #02639d;
         font-weight: bold;
 
