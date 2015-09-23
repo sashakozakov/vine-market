@@ -59,8 +59,8 @@ a {
 	.ba-buy-btn:before {
 		content:"+";
 		display: inline-block;
-		width: 20px;
-		height: 20px;
+		width: 22px;
+		height: 22px;
 		margin-right: 5px;
 		background-color: #fff;
 		-webkit-border-radius: 50%;
